@@ -30,5 +30,5 @@ test:
       customerId: 1
     - id: 3
       number: '0650981789'
-      balance: 12500
+      balance: 12550
       customerId: 2
